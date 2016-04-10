@@ -1,3 +1,1 @@
-# binary
-trying a sakai demo
-I am tmelz. the prodigy
+this is tmelz. the code prodigy
